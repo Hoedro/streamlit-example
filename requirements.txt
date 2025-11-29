@@ -1,3 +1,11 @@
-altair
-pandas
+
 streamlit
+pandas
+feedparser
+requests
+reportlab
+pyzipper
+deep-translator
+telethon
+cloudscraper
+beautifulsoup4
